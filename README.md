@@ -2,7 +2,7 @@
 ECE2066 - Operating Systems
 
 Instruction: Write a program in any programming language (eg. C, C++, Python, Java) in Linux environment to implement each of the following algorithm:
-
+ 
 1. First In First Out (FIFO)
 
 2. Least Frequently Used (LFU)
